@@ -1,4 +1,4 @@
 ### Hi Peoples 👋
 
 - 🌱 I’m currently learning Computer Science
-- I live im :Brazil: 
+- I live im :brazil: 
